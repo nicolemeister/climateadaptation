@@ -1,0 +1,271 @@
+Summary for Japan - %22hurricane+katrina%22_431.json:
+  Japan Government News: 1
+  Japan Economic Newswire: 38
+  Japan SPOTLIGHT: 1
+  Jiji Press Ticker Service: 6
+  JCN Newswire: 2
+  The Japan News: 2
+----------------------------------------
+Summary for Japan - %22climate+justice%22_10.json:
+  The Japan News: 1
+  Jiji Press Ticker Service: 1
+  Japan Economic Newswire: 3
+  Japan Government News: 1
+  WebNews - Japanese: 4
+----------------------------------------
+Summary for SouthKorea - %22climate+justice%22_24.json:
+  Korea Times: 11
+  The Korea Herald: 6
+  Korea News Gazette: 2
+  Webnews - Korean: 5
+----------------------------------------
+Summary for SouthKorea - %22hurricane+katrina%22_173.json:
+  Korea Times: 29
+  The Korea Economic Daily Global Edition- English: 1
+  Korea News Gazette: 3
+  The Korea Herald: 17
+----------------------------------------
+Summary for China - %22hurricane+katrina%22_1539.json:
+  Xinhua General News Service: 17
+  Cointelegraph - English: 1
+  Shanghai Daily (Benchmark): 3
+  China Daily (Hong Kong Edition): 4
+  China Daily European Edition: 5
+  China Daily: 2
+  South China Morning Post: 2
+  People's Daily Online - English: 2
+  Global Times (China): 5
+  South China Morning Post.com: 3
+  Hong Kong Free Press: 1
+  Macau Daily Times: 2
+  Asia Times-English: 1
+  China Daily - US Edition: 1
+  Shenzhen Daily: 1
+----------------------------------------
+Summary for China - %22climate+justice%22_538.json:
+  South China Morning Post: 2
+  South China Morning Post.com: 4
+  Xinhua General News Service: 17
+  Asia Times-English: 6
+  People's Daily Online - English: 4
+  Xinhua Economic News Service: 2
+  Hong Kong Free Press: 1
+  This Week In Asia: 1
+  Ministry of Foreign Affairs of the People's Republic of China - Spokesperson's Remarks (English): 1
+  China Daily European Edition: 4
+  China Daily: 4
+  Shanghai Daily (Benchmark): 2
+  EQS TodayIR: 1
+  China Daily (Hong Kong Edition): 1
+----------------------------------------
+Summary for Singapore - %22climate+justice%22_50.json:
+  The Straits Times (Singapore): 34
+  ThinkChina: 2
+  e27: 5
+  The Business Times Singapore: 6
+  Today (Singapore) - Online: 1
+  The Edge Singapore: 1
+  Lianhe Zaobao Chinese (Chinese - Simplified): 1
+----------------------------------------
+Summary for Singapore - %22hurricane+katrina%22_509.json:
+  The Business Times Singapore: 20
+  The Straits Times (Singapore): 27
+  The Edge Singapore: 1
+  Prime (Singapore): 1
+  Today (Singapore) - Online: 1
+----------------------------------------
+Summary for Vietnam - %22climate+justice%22_22.json:
+  Viet Nam News: 6
+  Vietnam Pictorial: 1
+  Vietnam Plus: 3
+  Vietnam News Gazette: 6
+  Bizhub: 2
+  Ovietnam: 3
+  Vietnam News Agency: 1
+----------------------------------------
+Summary for Vietnam - %22hurricane+katrina%22_4.json:
+  Viet Nam News: 1
+  Bizhub: 1
+  Vietnam News Gazette: 2
+----------------------------------------
+Summary for US - %22climate+justice%22_26494.json:
+  ASEAN Tribune: 3
+  OneGreenPlanet: 2
+  Targeted News Service: 20
+  States News Service: 5
+  ContentEngine Think Tank Newswire English: 1
+  Tampa Free Press: 1
+  ClimateWire: 1
+  The Associated Press: 1
+  Associated Press International: 1
+  Climate Change Daily News: 1
+  NewsRx COVID-19 Daily: 1
+  The Daily Caller: 1
+  International Business Times News: 1
+  University Wire: 4
+  NewsRx Science Daily: 1
+  Global Voices: 1
+  PR Newswire: 2
+  The Nation Blogs: 1
+  Education Daily Report: 1
+  The Santa Fe New Mexican: 1
+----------------------------------------
+Summary for US - %22hurricane+katrina%22_312468.json:
+  Targeted News Service: 7
+  States News Service: 12
+  The Conversation - United States: 1
+  3BL Blogs: 1
+  Digital Insurance: 1
+  Congressional Documents and Publications (Federal Information & News Dispatch, Inc.): 3
+  The Wrap: 2
+  Reason (Magazine): 1
+  The Associated Press: 1
+  Associated Press International: 1
+  Los Angeles Times Online: 1
+  SEC Wire: 1
+  New Orleans CityBusiness (New Orleans, LA): 2
+  USA Today Online: 1
+  The Christian Science Monitor: 1
+  Atlanta Journal Constitution Online: 1
+  PR Newswire: 3
+  Psychiatric Times: 1
+  Los Angeles Times: 1
+  NBCNEWS.com: 1
+  Axios: 3
+  CNN Wire: 1
+  The Baltimore Sun: 1
+  CNN Transcripts: 1
+  Due.com: 1
+----------------------------------------
+Summary for Germany - %22hurricane+katrina%22_1572.json:
+  dpa-AFX International ProFeed: 15
+  dpa international (Englischer Dienst): 19
+  Deutsche Welle World: 14
+  dpa trends & features: 1
+  EQS Newsfeed (English): 1
+----------------------------------------
+Summary for Germany - %22climate+justice%22_830.json:
+  Asia News Network: 3
+  Deutsche Welle World: 22
+  The Outdoor Industry Compass: 2
+  dpa-AFX International ProFeed: 11
+  dpa international (Englischer Dienst): 5
+  EQS Newsfeed (English): 1
+  Development and Cooperation: 6
+----------------------------------------
+Summary for France - %22hurricane+katrina%22_2016.json:
+  GlobeNewswire - English: 4
+  The New York Times - International Edition: 33
+  Africanews (English): 1
+  ETX Daily Up (English International Version): 5
+  EurActiv.com: 3
+  FRANCE 24 (English): 1
+  La Croix International: 1
+  RFI (English): 2
+----------------------------------------
+Summary for France - %22climate+justice%22_587.json:
+  FRANCE 24 (English): 2
+  Africanews (English): 10
+  RFI (English): 14
+  The New York Times - International Edition: 10
+  EurActiv.com: 7
+  The Africa Report: 2
+  Le Monde Diplomatique (English): 2
+  ETX Daily Up (English International Version): 1
+  La Croix International: 2
+----------------------------------------
+Summary for UK - %22climate+justice%22_8500.json:
+  TechBullion: 1
+  M2 PressWIRE: 4
+  ENP Newswire: 4
+  Evening Times (Glasgow): 1
+  Stroud News and Journal: 1
+  Jindal Global Law Review (UK): 1
+  The National (Scotland): 1
+  energyvoice.com: 2
+  The Guardian  (London): 6
+  Nature Human Behaviour: 1
+  Nature Climate Change: 1
+  The Press and Journal: 1
+  Aberdeen Press and Journal: 1
+  telegraph.co.uk: 1
+  Edie.net: 1
+  India Weekly: 1
+  MailOnline: 2
+  conveniencestore.co.uk: 1
+  East Lothian Courier: 1
+  Great British Life: 1
+  Dorset Echo: 1
+  Environment and Planning C: Politics and Space: 1
+  The Hunts Post: 1
+  Yorkshire Evening Post: 1
+  Architects Journal: 1
+  Daily Echo: 1
+  Andover Advertiser: 1
+  BBC Monitoring: International Reports: 2
+  FinancialWire: 2
+  Hull Daily Mail: 1
+  Garavi Gujarat (USA): 1
+  Knutsford Guardian: 1
+  Al-Arab Weekly: 1
+  Edinburgh Evening News: 1
+  The Daily Telegraph (London): 1
+----------------------------------------
+Summary for UK - %22hurricane+katrina%22_31105.json:
+  ENP Newswire: 4
+  M2 PressWIRE: 3
+  FinancialWire: 1
+  The Guardian  (London): 7
+  mirror.co.uk: 1
+  The Daily Mail (London): 2
+  The Express: 2
+  Scottish Daily Mail: 1
+  The Daily Telegraph (London): 1
+  Express Online: 2
+  Kent and Sussex Courier: 1
+  MailOnline: 5
+  Essex Chronicle: 1
+  Brentwood Gazette: 1
+  New Civil Engineer: 1
+  Radio Times: 1
+  Daily Record and Sunday Mail: 2
+  Actuarial Post: 1
+  Daily Star Sunday: 1
+  Ealing Times: 1
+  Railway Gazette International: 1
+  Daily Mirror: 5
+  The Observer - London (Online): 1
+  Peterborough Today: 1
+  Den of Geek: 1
+  The Sunday Telegraph (London): 1
+  liverpoolecho.co.uk: 1
+----------------------------------------
+Summary for Australia - %22hurricane+katrina%22_10653.json:
+  News Bites - Private Companies: 28
+  News Bites - People in Business: 8
+  Townsville Bulletin (Australia): 1
+  The Australian: 2
+  The Australian Online: 2
+  The Age (Melbourne, Australia): 1
+  The Sydney Morning Herald: 1
+  Herald Sun/Sunday Herald Sun (Melbourne, Australia): 1
+  The Advertiser/Sunday Mail (Adelaide, South Australia): 2
+  The Australian Financial Review (Online): 1
+  The Canberra Times: 1
+  Bendigo Advertiser (ACM): 2
+----------------------------------------
+Summary for Australia - %22climate+justice%22_2390.json:
+  The Conversation - United Kingdom: 2
+  News Bites - Private Companies: 33
+  AAP Newsfeed: 3
+  The Conversation - Africa: 2
+  Bay Post: 2
+  AM(ABC Transcript): 1
+  Moruya Examiner: 1
+  Eurobodalla Shire Independent: 1
+  The World Today (ABC transcript): 1
+  International Business Times Australia: 1
+  Asia Pacific News: 1
+  Northern Territory News (Australia): 1
+  The Conversation - Australia: 1
+----------------------------------------
