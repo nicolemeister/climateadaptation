@@ -1,3 +1,39 @@
+Summary for Japan - %22agroforestry%22_29.json:
+  Japan Daily Report: 2
+  News Bites - Asia: Japan: 1
+  Asian Journal of Comparative Politics: 1
+  Japan Economic Newswire: 9
+  The Japan News: 2
+  Jiji Press Ticker Service: 1
+  Japanese Business Digest: 1
+  WebNews - Japanese: 12
+----------------------------------------
+Summary for Japan - %22Typhoon+Hagibis%22_586.json:
+  Japan Daily Report: 3
+  Japan Economic Newswire: 16
+  Jiji Press Ticker Service: 30
+  Japan Government News: 1
+----------------------------------------
+Summary for Japan - %22nature-based+solutions%22_18.json:
+  Japan Daily Report: 1
+  Asian Journal of Comparative Politics: 1
+  Japan Economic Newswire: 3
+  JCN Newswire: 1
+  WebNews - Japanese: 12
+----------------------------------------
+Summary for Japan - %22regenerative+agriculture%22_12.json:
+  Japan Daily Report: 3
+  Japan Economic Newswire: 2
+  Japan SPOTLIGHT: 2
+  WebNews - Japanese: 5
+----------------------------------------
+Summary for Japan - %22Australian+Bushfires%22_10.json:
+  The Japan News: 1
+  Japan Economic Newswire: 9
+----------------------------------------
+Summary for Japan - %22climate+equity%22_1.json:
+  Jiji Press Ticker Service: 1
+----------------------------------------
 Summary for Japan - %22hurricane+katrina%22_431.json:
   Japan Government News: 1
   Japan Economic Newswire: 38
@@ -13,6 +49,22 @@ Summary for Japan - %22climate+justice%22_10.json:
   Japan Government News: 1
   WebNews - Japanese: 4
 ----------------------------------------
+Summary for Japan - %22Henan+Floods%22_0.json:
+----------------------------------------
+Summary for SouthKorea - %22nature-based+solutions%22_33.json:
+  Korea Times: 8
+  The Korea Herald: 12
+  Korea News Gazette: 3
+  Webnews - Korean: 10
+----------------------------------------
+Summary for SouthKorea - %22Typhoon+Hagibis%22_14.json:
+  Korea News Gazette: 6
+  The Korea Herald: 4
+  Korea Times: 4
+----------------------------------------
+Summary for SouthKorea - %22climate+equity%22_2.json:
+  Korea Times: 2
+----------------------------------------
 Summary for SouthKorea - %22climate+justice%22_24.json:
   Korea Times: 11
   The Korea Herald: 6
@@ -24,6 +76,30 @@ Summary for SouthKorea - %22hurricane+katrina%22_173.json:
   The Korea Economic Daily Global Edition- English: 1
   Korea News Gazette: 3
   The Korea Herald: 17
+----------------------------------------
+Summary for SouthKorea - %22agroforestry%22_27.json:
+  The Korea Herald: 17
+  Korea News Gazette: 1
+  The Korea Economic Daily Global Edition- English: 1
+  Webnews - Korean: 8
+----------------------------------------
+Summary for SouthKorea - %22regenerative+agriculture%22_2.json:
+  Korea Times: 1
+  Webnews - Korean: 1
+----------------------------------------
+Summary for SouthKorea - %22Australian+Bushfires%22_4.json:
+  Korea Times: 4
+----------------------------------------
+Summary for SouthKorea - %22Henan+Floods%22_0.json:
+----------------------------------------
+Summary for China - %22climate+equity%22_9.json:
+  Asia Times-English: 2
+  China Business News: 1
+  China Daily European Edition: 1
+  Xinhua Economic News Service: 1
+  People's Daily Online - English: 1
+  Xinhua General News Service: 1
+  South China Morning Post: 2
 ----------------------------------------
 Summary for China - %22hurricane+katrina%22_1539.json:
   Xinhua General News Service: 17
@@ -42,6 +118,71 @@ Summary for China - %22hurricane+katrina%22_1539.json:
   China Daily - US Edition: 1
   Shenzhen Daily: 1
 ----------------------------------------
+Summary for China - %22Typhoon+Hagibis%22_174.json:
+  Hong Kong Free Press: 1
+  China Daily: 7
+  China Daily European Edition: 8
+  Shanghai Daily (Benchmark): 2
+  Xinhua General News Service: 16
+  China Daily (Hong Kong Edition): 3
+  Hong Kong Government News: 1
+  Caixin Global: 2
+  Shenzhen Daily: 1
+  People's Daily Online - English: 2
+  South China Morning Post: 2
+  South China Morning Post.com: 4
+  China Daily - US Edition: 1
+----------------------------------------
+Summary for China - %22agroforestry%22_368.json:
+  News Bites - Asia: Hong Kong: 2
+  Xinhua General News Service: 14
+  Daily China News: 10
+  People's Daily Online - English: 2
+  Xinhua Economic News Service: 3
+  China Daily: 4
+  China Business News: 4
+  South China Morning Post.com: 2
+  Macau Daily Times: 1
+  China Daily European Edition: 3
+  South China Morning Post: 2
+  Media OutReach (English): 1
+  Beijing Review: 1
+  China Daily - Africa Weekly: 1
+----------------------------------------
+Summary for China - %22Henan+Floods%22_49.json:
+  Daily China News: 1
+  China Daily: 6
+  China Daily (Hong Kong Edition): 5
+  South China Morning Post.com: 11
+  Hong Kong Government News: 1
+  Macau Daily Times: 1
+  Global Times (China): 5
+  China Daily European Edition: 3
+  China Business News: 1
+  Shanghai Daily (Benchmark): 3
+  South China Morning Post: 6
+  Caixin Global: 2
+  Xinhua General News Service: 1
+  Week in China: 1
+  Hong Kong Free Press: 2
+----------------------------------------
+Summary for China - %22nature-based+solutions%22_501.json:
+  Daily China News: 4
+  South China Morning Post.com: 4
+  Shanghai Daily (Benchmark): 1
+  South China Morning Post: 4
+  Xinhua Economic News Service: 1
+  People's Daily Online - English: 4
+  Xinhua General News Service: 12
+  China Daily (Hong Kong Edition): 3
+  China Business News: 3
+  China Daily European Edition: 2
+  China Daily: 4
+  China Daily - Africa Weekly: 1
+  Media OutReach (English): 4
+  EQS TodayIR: 1
+  Daily Hong Kong Report: 2
+----------------------------------------
 Summary for China - %22climate+justice%22_538.json:
   South China Morning Post: 2
   South China Morning Post.com: 4
@@ -58,6 +199,68 @@ Summary for China - %22climate+justice%22_538.json:
   EQS TodayIR: 1
   China Daily (Hong Kong Edition): 1
 ----------------------------------------
+Summary for China - %22regenerative+agriculture%22_150.json:
+  Asia Times-English: 6
+  China Business News: 6
+  Xinhua General News Service: 4
+  Macau Daily Times: 1
+  South China Morning Post: 2
+  South China Morning Post.com: 4
+  China Daily: 6
+  China Daily European Edition: 7
+  News Bites - Asia: Hong Kong: 2
+  Blockchain.News: 2
+  Shanghai Daily (Benchmark): 2
+  Media OutReach (English): 3
+  Xinhua Finance Agency (Formerly Xinhua Financial News): 1
+  China Daily (Hong Kong Edition): 3
+  EQS TodayIR: 1
+----------------------------------------
+Summary for China - %22Australian+Bushfires%22_102.json:
+  Xinhua General News Service: 28
+  Daily Hong Kong Report: 1
+  People's Daily Online - English: 4
+  Shenzhen Daily: 2
+  China Daily (Hong Kong Edition): 4
+  China Daily: 3
+  South China Morning Post.com: 1
+  Hong Kong Free Press: 1
+  Blockchain.News: 1
+  Global Times (China): 2
+  Asia Times-English: 1
+  China Daily European Edition: 1
+  China Daily - US Edition: 1
+----------------------------------------
+Summary for Singapore - %22climate+equity%22_5.json:
+  e27: 1
+  Regulation Asia: 1
+  The Business Times Singapore: 2
+  Lianhe Zaobao Chinese (Chinese - Simplified): 1
+----------------------------------------
+Summary for Singapore - %22agroforestry%22_65.json:
+  CryptoDaily: 1
+  The Straits Times (Singapore): 24
+  e27: 5
+  The Business Times Singapore: 12
+  Metaverse Post: 1
+  Singapore Government News: 3
+  Today (Singapore) - Online: 4
+----------------------------------------
+Summary for Singapore - %22Australian+Bushfires%22_13.json:
+  The Straits Times (Singapore): 2
+  The Business Times Singapore: 6
+  Regulation Asia: 1
+  Today (Singapore) - Online: 3
+  The Edge Singapore: 1
+----------------------------------------
+Summary for Singapore - %22nature-based+solutions%22_409.json:
+  The Straits Times (Singapore): 21
+  The Business Times Singapore: 16
+  Manifold Times: 1
+  e27: 6
+  Singapore Government News: 5
+  Regulation Asia: 1
+----------------------------------------
 Summary for Singapore - %22climate+justice%22_50.json:
   The Straits Times (Singapore): 34
   ThinkChina: 2
@@ -67,12 +270,44 @@ Summary for Singapore - %22climate+justice%22_50.json:
   The Edge Singapore: 1
   Lianhe Zaobao Chinese (Chinese - Simplified): 1
 ----------------------------------------
+Summary for Singapore - %22Henan+Floods%22_6.json:
+  The Straits Times (Singapore): 3
+  The Business Times Singapore: 1
+  ThinkChina: 1
+  Singapore Government News: 1
+----------------------------------------
+Summary for Singapore - %22regenerative+agriculture%22_61.json:
+  e27: 11
+  The Business Times Singapore: 21
+  Singapore Government News: 2
+  The Straits Times (Singapore): 14
+  The Edge Singapore: 1
+  Today (Singapore) - Online: 1
+----------------------------------------
+Summary for Singapore - %22Typhoon+Hagibis%22_36.json:
+  The Straits Times (Singapore): 32
+  Today (Singapore) - Online: 1
+  The Business Times Singapore: 1
+  Singapore Government News: 2
+----------------------------------------
 Summary for Singapore - %22hurricane+katrina%22_509.json:
   The Business Times Singapore: 20
   The Straits Times (Singapore): 27
   The Edge Singapore: 1
   Prime (Singapore): 1
   Today (Singapore) - Online: 1
+----------------------------------------
+Summary for Vietnam - %22climate+equity%22_5.json:
+  Vietnam Plus: 1
+  Vietnam Pictorial: 1
+  Vietnam News Agency: 1
+  Viet Nam News: 1
+  Vietnam News Gazette: 1
+----------------------------------------
+Summary for Vietnam - %22Typhoon+Hagibis%22_6.json:
+  Vietnam News Gazette: 4
+  Vietnam Plus: 1
+  Viet Nam News: 1
 ----------------------------------------
 Summary for Vietnam - %22climate+justice%22_22.json:
   Viet Nam News: 6
@@ -83,10 +318,99 @@ Summary for Vietnam - %22climate+justice%22_22.json:
   Ovietnam: 3
   Vietnam News Agency: 1
 ----------------------------------------
+Summary for Vietnam - %22regenerative+agriculture%22_90.json:
+  Viet Nam News: 16
+  Ovietnam: 3
+  Bizhub: 13
+  Vietnam News Gazette: 7
+  Vietnam News Agency: 4
+  Vietnam Plus: 6
+  Vietnam Pictorial: 1
+----------------------------------------
 Summary for Vietnam - %22hurricane+katrina%22_4.json:
   Viet Nam News: 1
   Bizhub: 1
   Vietnam News Gazette: 2
+----------------------------------------
+Summary for Vietnam - %22nature-based+solutions%22_137.json:
+  Bizhub: 4
+  Vietnam Pictorial: 7
+  Vietnam Plus: 14
+  Viet Nam News: 18
+  Vietnam News Agency: 3
+  Vietnam News Gazette: 4
+----------------------------------------
+Summary for Vietnam - %22Australian+Bushfires%22_4.json:
+  Viet Nam News: 1
+  Vietnam News Gazette: 3
+----------------------------------------
+Summary for Vietnam - %22Henan+Floods%22_0.json:
+----------------------------------------
+Summary for Vietnam - %22agroforestry%22_92.json:
+  Viet Nam News: 15
+  Bizhub: 10
+  Vietnam News Gazette: 10
+  Vietnam Plus: 8
+  Vietnam News Agency: 4
+  Ovietnam: 2
+  Vietnam Pictorial: 1
+----------------------------------------
+Summary for US - %22regenerative+agriculture%22_11170.json:
+  Impact News Service: 3
+  Agriculture Monitor Worldwide: 3
+  ESG Today: 1
+  thegrocer.co.uk: 1
+  FoodManufacture.co.uk: 1
+  MENAFN - Press Releases (English): 4
+  PR Newswire: 6
+  PR Newswire Europe - European Stories: 2
+  Edie.net: 2
+  Contify Retail News: 2
+  CE Noticias Financieras English: 4
+  Targeted News Service: 4
+  Business Line: 1
+  EurActiv.com: 1
+  NAFTA (English): 1
+  PR Newswire Asia: 1
+  Canada NewsWire: 1
+  Business Wire: 1
+  The Hitavada: 1
+  The Bismarck Tribune: 1
+  Mena Report: 1
+  Impact Financial News: 1
+  GlobeNewswire: 1
+  States News Service: 1
+  Energy Monitor Worldwide: 1
+  Business Bhutan: 1
+  Agriculture Daily: 1
+  Mental Health News Daily: 1
+  Valor International: 1
+----------------------------------------
+Summary for US - %22climate+equity%22_2060.json:
+  States News Service: 14
+  UAE Government News: 2
+  MENAFN - Press Releases (English): 1
+  GlobeNewswire: 1
+  Arabian Post: 1
+  Al Jazeera English: 1
+  Targeted News Service: 10
+  Africa Newswire: 1
+  Greenwire: 2
+  The Pioneer (India): 1
+  Inside Climate News: 2
+  Business Wire: 1
+  Contify Energy News: 1
+  Nature Communications: 1
+  Peninsula Daily News (Port Angeles, Washington): 1
+  Tech Daily News: 1
+  Sequim Gazette (Washington): 1
+  Impact News Service: 2
+  BridgeTower Legal & Public Notice: 1
+  US Fed News: 1
+  University Wire: 1
+  Axios: 1
+  NewsRx Science Daily: 1
+  CNN Wire: 1
 ----------------------------------------
 Summary for US - %22climate+justice%22_26494.json:
   ASEAN Tribune: 3
@@ -109,6 +433,92 @@ Summary for US - %22climate+justice%22_26494.json:
   The Nation Blogs: 1
   Education Daily Report: 1
   The Santa Fe New Mexican: 1
+----------------------------------------
+Summary for US - %22Australian+Bushfires%22_868.json:
+  Tech Daily News: 1
+  Impact News Service: 1
+  The Conversation - United States: 1
+  Business Insider: 1
+  Nature: 1
+  University Wire: 8
+  Targeted News Service: 7
+  CNN Wire: 2
+  npj Climate and Atmospheric Science: 1
+  States News Service: 5
+  Disease Prevention Daily: 1
+  NewsRx Science Daily: 3
+  CDC & FDA Daily: 1
+  Eurasia Review: 1
+  Comparative Political Studies: 1
+  Space Daily: 2
+  Psychiatric Times: 1
+  CNN Transcripts: 1
+  NewsRx COVID-19 Daily: 1
+  NewsRx Hematology Daily: 1
+  Politics, Law & Government Daily: 1
+  Voice of America News: 1
+  UPI (United Press International): 2
+  The Cheat Sheet: 1
+  Manufacturing Close-Up: 1
+  Insurance Journal - Wells Media: 1
+  iOTWreport: 1
+  Wireless News(Close-up Media): 1
+----------------------------------------
+Summary for US - %22Typhoon+Hagibis%22_984.json:
+  The Daily Telegraph (London): 1
+  Tech Daily News: 1
+  The Canadian Press: 1
+  Climate Change Daily News: 3
+  Robotics & Machine Learning Daily News: 1
+  telegraph.co.uk: 1
+  Business Monitor News: 1
+  NewsRx Life Science Daily: 1
+  ASEAN Tribune: 2
+  NewsRx Science Daily: 1
+  Information Technology Daily: 1
+  Axios: 2
+  States News Service: 3
+  ClimateWire: 2
+  Targeted News Service: 5
+  University Wire: 1
+  International Business Times News: 6
+  Eurasia Review: 1
+  Telecommunications Daily: 1
+  Ecology Daily News: 1
+  Forbes.com (Forbes, Incorporated): 1
+  Defense & Aerospace Daily: 1
+  Al Jazeera English: 1
+  Newsweek.com: 1
+  Theflyonthewall.com: 1
+  VentureBeat: 1
+  Insurance Journal - Wells Media: 1
+  Carrier Management: 2
+  The Associated Press: 2
+  Associated Press International: 2
+  The San Diego Union-Tribune: 1
+----------------------------------------
+Summary for US - %22nature-based+solutions%22_12743.json:
+  Green Economy: Azerbaijan and Central Asia Review: 1
+  Weekly Azerbaijan Business Monitoring (English): 1
+  PR Newswire: 1
+  MENAFN - Press Releases (English): 1
+  States News Service: 2
+  Impact News Service: 2
+  The Balochistan Times: 1
+  Newswire Pakistan: 1
+  Targeted News Service: 3
+  NewsRx Science Daily: 4
+  Climate Change Daily News: 10
+  Ecology Daily News: 12
+  CDC & FDA Daily: 1
+  Economics Daily Report: 3
+  ASEAN Tribune: 1
+  Agriculture Daily: 1
+  Tech Daily News: 1
+  Communications Earth & Environment: 1
+  CE Noticias Financieras English: 1
+  Middle East Daily: 1
+  Insurance Daily News: 1
 ----------------------------------------
 Summary for US - %22hurricane+katrina%22_312468.json:
   Targeted News Service: 7
@@ -137,12 +547,94 @@ Summary for US - %22hurricane+katrina%22_312468.json:
   CNN Transcripts: 1
   Due.com: 1
 ----------------------------------------
+Summary for US - %22Henan+Floods%22_35.json:
+  Genomics & Genetics Daily: 1
+  Communications Earth & Environment: 1
+  Health & Medicine Daily: 1
+  Psychology & Psychiatry Daily: 1
+  Supply Chain Digital: 1
+  PR Newswire: 5
+  Business Wire: 2
+  CNN Wire: 1
+  International Business Times News: 1
+  Insurance Journal - Wells Media: 1
+  States News Service: 2
+  Axios: 1
+  Foreign Policy: 1
+  FD (Fair Disclosure) Wire: 4
+  Newstex Blogs: 10
+  Naked Capitalism: 1
+  Mongabay News: 1
+----------------------------------------
+Summary for US - %22agroforestry%22_10148.json:
+  Agriculture Daily: 15
+  Saudi Arabia News Gazette: 1
+  The Standard (Zimbabwe): 1
+  Saudi Press Agency (SPA): 1
+  Pantagraph (Bloomington, Illinois): 1
+  Daily China News: 1
+  Mena Report: 4
+  Ecology Daily News: 4
+  TendersInfo - News: 4
+  The Sentinel: 1
+  TendersInfo - Project Notices: 1
+  Food Daily News: 7
+  ASEAN Tribune: 1
+  Brunei News Gazette: 1
+  Thai News Service: 1
+  Fitness & Wellness Daily: 1
+  NewsRx Life Science Daily: 2
+  Daily Marketing News: 1
+  Targeted News Service: 1
+  States News Service: 1
+----------------------------------------
 Summary for Germany - %22hurricane+katrina%22_1572.json:
   dpa-AFX International ProFeed: 15
   dpa international (Englischer Dienst): 19
   Deutsche Welle World: 14
   dpa trends & features: 1
   EQS Newsfeed (English): 1
+----------------------------------------
+Summary for Germany - %22regenerative+agriculture%22_124.json:
+  dpa-AFX International ProFeed: 24
+  OTS Deutschland (Englisch): 10
+  SGI Europe: 4
+  EQS Newsfeed (English): 2
+  Development and Cooperation: 4
+  Fleischwirtschaft International: 4
+  The Outdoor Industry Compass: 1
+  dpa international (Englischer Dienst): 1
+----------------------------------------
+Summary for Germany - %22Typhoon+Hagibis%22_123.json:
+  Deutsche Welle World: 9
+  dpa-AFX International ProFeed: 10
+  dpa international (Englischer Dienst): 26
+  Asia News Network: 5
+----------------------------------------
+Summary for Germany - %22nature-based+solutions%22_152.json:
+  Deutsche Welle World: 12
+  EQS Newsfeed (English): 4
+  dpa-AFX International ProFeed: 11
+  Development and Cooperation: 14
+  OTS Deutschland (Englisch): 8
+  dpa international (Englischer Dienst): 1
+----------------------------------------
+Summary for Germany - %22Australian+Bushfires%22_67.json:
+  dpa international (Englischer Dienst): 24
+  Deutsche Welle World: 15
+  dpa-AFX International ProFeed: 9
+  OTS Deutschland (Englisch): 1
+  Asia News Network: 1
+----------------------------------------
+Summary for Germany - %22climate+equity%22_13.json:
+  dpa-AFX International ProFeed: 2
+  Deutsche Welle World: 1
+  Zeitschrift für das gesamte Kreditwesen: 1
+  dpa-AFX ProFeed: 3
+  Citywire.de: 2
+  Capital: 2
+  Contacto: 1
+  WebNews - German: 1
 ----------------------------------------
 Summary for Germany - %22climate+justice%22_830.json:
   Asia News Network: 3
@@ -152,6 +644,19 @@ Summary for Germany - %22climate+justice%22_830.json:
   dpa international (Englischer Dienst): 5
   EQS Newsfeed (English): 1
   Development and Cooperation: 6
+----------------------------------------
+Summary for Germany - %22agroforestry%22_121.json:
+  Development and Cooperation: 15
+  dpa-AFX International ProFeed: 5
+  Deutsche Welle World: 7
+  OTS Deutschland (Englisch): 2
+  Fleischwirtschaft International: 3
+  dpa international (Englischer Dienst): 3
+  EQS Newsfeed (English): 1
+  Asia News Network: 14
+----------------------------------------
+Summary for Germany - %22Henan+Floods%22_1.json:
+  dpa international (Englischer Dienst): 1
 ----------------------------------------
 Summary for France - %22hurricane+katrina%22_2016.json:
   GlobeNewswire - English: 4
@@ -163,6 +668,55 @@ Summary for France - %22hurricane+katrina%22_2016.json:
   La Croix International: 1
   RFI (English): 2
 ----------------------------------------
+Summary for France - %22Australian+Bushfires%22_7.json:
+  RFI (English): 3
+  EurActiv.com: 1
+  ETX Daily Up (English International Version): 2
+  Libération: 1
+----------------------------------------
+Summary for France - %22agroforestry%22_152.json:
+  EurActiv.com: 22
+  RFI (English): 2
+  GlobeNewswire - English: 7
+  The Africa Report: 11
+  Africanews (English): 2
+  La Croix International: 1
+  ETX Daily Up (English International Version): 2
+  Le Monde Diplomatique (English): 1
+  Key Energy News by Enerdata: 1
+  The New York Times - International Edition: 1
+----------------------------------------
+Summary for France - %22climate+equity%22_24.json:
+  GlobeNewswire - English: 16
+  The Africa Report: 1
+  The New York Times - International Edition: 2
+  FRANCE 24 (English): 2
+  Boursier.com: 1
+  L'AGEFI Patrimoine: 1
+  L'Obs: 1
+----------------------------------------
+Summary for France - %22regenerative+agriculture%22_140.json:
+  EurActiv.com: 14
+  GlobeNewswire - English: 14
+  News Bites - Western Europe: France: 13
+  The Africa Report: 2
+  The New York Times - International Edition: 5
+  Africanews (English): 1
+  ETX Daily Up (English International Version): 1
+----------------------------------------
+Summary for France - %22Typhoon+Hagibis%22_26.json:
+  The New York Times - International Edition: 3
+  FRANCE 24 (English): 7
+  GlobeNewswire - English: 2
+  RFI (English): 4
+  ETX Daily Up (English International Version): 3
+  silicon.co.uk: 1
+  Oil Market Report: 1
+  Le Figaro Economie: 1
+  Le Figaro: 1
+  Le Progrès: 1
+  Lefigaro.fr: 2
+----------------------------------------
 Summary for France - %22climate+justice%22_587.json:
   FRANCE 24 (English): 2
   Africanews (English): 10
@@ -173,6 +727,63 @@ Summary for France - %22climate+justice%22_587.json:
   Le Monde Diplomatique (English): 2
   ETX Daily Up (English International Version): 1
   La Croix International: 2
+----------------------------------------
+Summary for France - %22nature-based+solutions%22_244.json:
+  EurActiv.com: 23
+  News Bites - Western Europe: France: 21
+  Actusnews - English: 1
+  GlobeNewswire - English: 5
+----------------------------------------
+Summary for France - %22Henan+Floods%22_0.json:
+----------------------------------------
+Summary for UK - %22regenerative+agriculture%22_4998.json:
+  FoodNavigator.com: 4
+  thegrocer.co.uk: 3
+  MarketLine NewsWire: 1
+  Edie.net: 11
+  just-style global news: 1
+  Monmouthshire Beacon: 1
+  The Scottish Farmer: 2
+  ENP Newswire: 8
+  M2 PressWIRE: 7
+  FinancialWire: 5
+  South West Farmer: 1
+  Telegraph and Argus: 1
+  Farmers Guardian: 2
+  Biofuels International: 1
+  Harrogate Advertiser: 1
+  The Western Mail: 1
+----------------------------------------
+Summary for UK - %22Henan+Floods%22_17.json:
+  Defence Monitor Worldwide: 1
+  BBC Monitoring: International Reports: 5
+  Nature Communications: 1
+  M2 PressWIRE: 1
+  ENP Newswire: 2
+  The Guardian  (London): 2
+  Express Online: 1
+  PA UK & Ireland National Newswire: 1
+  standard.co.uk: 1
+  FT.com Headlines: 2
+----------------------------------------
+Summary for UK - %22climate+equity%22_238.json:
+  Citywire: 1
+  Citywire.row: 1
+  Scotsman: 1
+  Asia Power Monitor Today: 1
+  ENP Newswire: 13
+  M2 PressWIRE: 13
+  Edie.net: 1
+  Scientific Reports: 1
+  MarketLine NewsWire: 1
+  just-style global news: 1
+  Nature Climate Change: 2
+  npj Urban Sustainability: 2
+  Nature Energy: 1
+  MailOnline: 1
+  FinancialWire: 8
+  The Argus: 1
+  Nature Sustainability: 1
 ----------------------------------------
 Summary for UK - %22climate+justice%22_8500.json:
   TechBullion: 1
@@ -240,6 +851,134 @@ Summary for UK - %22hurricane+katrina%22_31105.json:
   The Sunday Telegraph (London): 1
   liverpoolecho.co.uk: 1
 ----------------------------------------
+Summary for UK - %22Typhoon+Hagibis%22_2417.json:
+  Scientific Reports: 2
+  MailOnline: 3
+  Communications Earth & Environment: 2
+  RBC Ukraine - English: 1
+  Daily Star Online: 1
+  Business Monitor News: 1
+  Scotsman: 7
+  telegraph.co.uk: 4
+  The Rugby Paper: 5
+  The Racing Post: 2
+  PA Newswire: Sport News: 1
+  The Guardian  (London): 3
+  Scottish Daily Mail: 6
+  Scottish Mail on Sunday: 1
+  Evening Times (Glasgow): 1
+  The Herald (Scotland) Print: 1
+  irishmirror.ie: 1
+  Evening Express: 1
+  The Express: 1
+  Alliance News Global 500: 1
+  Cityam.com: 1
+  Belfast Telegraph Online: 1
+  i-news: 1
+  ENP Newswire: 2
+----------------------------------------
+Summary for UK - %22Australian+Bushfires%22_1240.json:
+  The Guardian  (London): 2
+  Operations Research Forum: 1
+  MailOnline: 3
+  TechRadar (UK): 1
+  Scientific Reports: 2
+  The Comet: 1
+  Daily Star Online: 4
+  ENP Newswire: 3
+  The Mail: 2
+  The Courier: 1
+  PA Newswire: Financial Newswire: 1
+  MarketLine NewsWire: 1
+  Communications Earth & Environment: 1
+  WENN Entertainment News Wire Service: 2
+  The Observer (archive from the Guardian): 1
+  Regional Press Releases: London: 1
+  standard.co.uk: 1
+  PA UK & Ireland National Newswire: 3
+  Bournemouth Echo: 1
+  Greenock Telegraph: 1
+  PA Newswire: Sport News: 1
+  Welwyn Hatfield Times: 1
+  Actuarial Post: 2
+  Eastern Daily Press: 1
+  Belfast Telegraph Online: 2
+  South Wales Echo: 1
+  mirror.co.uk: 1
+  irishmirror.ie: 1
+  Warrington Guardian: 1
+  Lancashire Evening Post: 1
+  The Visitor: 1
+  Bury Times: 1
+  M2 PressWIRE: 1
+  Nature Climate Change: 1
+  Morning Advertiser: 1
+----------------------------------------
+Summary for UK - %22agroforestry%22_3649.json:
+  Nature Plants: 1
+  South West Farmer: 1
+  Nature Sustainability: 2
+  Tavistock Times Gazette: 1
+  Nature Climate Change: 1
+  Okehampton Times: 1
+  Communications Earth & Environment: 1
+  Ardrossan & Saltcoats Herald: 1
+  The Scottish Farmer: 1
+  ENP Newswire: 11
+  Forestry Journal: 1
+  FinancialWire: 4
+  Hexham Courant: 1
+  M2 PressWIRE: 11
+  Western Telegraph: 2
+  Biofuels International: 1
+  Tenby Observer: 1
+  Narberth & Whitland Observer: 1
+  Pembroke And Pembroke Dock Observer: 1
+  Scientific Data: 1
+  Scientific Reports: 2
+  Nature Communications: 1
+  Pioneers Post: 1
+  Countryfile: 1
+----------------------------------------
+Summary for UK - %22nature-based+solutions%22_6983.json:
+  Scientific Reports: 2
+  New Civil Engineer: 3
+  ENP Newswire: 5
+  M2 PressWIRE: 5
+  FinancialWire: 3
+  npj Urban Sustainability: 5
+  Edie.net: 4
+  Pioneers Post: 1
+  Exmouth Journal: 1
+  Midweek Herald: 1
+  Sidmouth Herald: 1
+  Shropshire Star: 1
+  The Westmorland Gazette: 1
+  Teignmouth Post: 1
+  Dawlish Gazette: 1
+  Mid Devon Advertiser: 1
+  South Hams Gazette: 1
+  Totnes Times: 1
+  Kingsbridge & Salcombe Gazette: 1
+  Ivybridge & South Brent Gazette: 1
+  Dartmouth Chronicle: 1
+  Oxford Mail: 1
+  Professional Pensions: 3
+  Halifax Courier: 1
+  Aberdeen Press and Journal: 2
+  The Press and Journal: 1
+  East Lothian Courier: 1
+----------------------------------------
+Summary for Australia - %22regenerative+agriculture%22_4035.json:
+  News Bites - Private Companies: 41
+  Smart Farmer: 1
+  Global Round Up - Bullish & Bearish Signals: 1
+  The Weekly Times: 1
+  The Australian Financial Review (Online): 1
+  The Australian Financial Review: 1
+  News Bites - People in Business: 3
+  The Weekly Times Online: 1
+----------------------------------------
 Summary for Australia - %22hurricane+katrina%22_10653.json:
   News Bites - Private Companies: 28
   News Bites - People in Business: 8
@@ -253,6 +992,71 @@ Summary for Australia - %22hurricane+katrina%22_10653.json:
   The Australian Financial Review (Online): 1
   The Canberra Times: 1
   Bendigo Advertiser (ACM): 2
+----------------------------------------
+Summary for Australia - %22Typhoon+Hagibis%22_226.json:
+  The Sydney Morning Herald: 7
+  Brisbane Times: 6
+  The Sydney Morning Herald (Australia) - Online: 10
+  The Advertiser/Sunday Mail (Adelaide, South Australia): 1
+  The Advertiser Online: 1
+  Townsville Bulletin (Australia): 1
+  Asia Pacific News: 2
+  The Conversation - Australia: 1
+  The Age (Melbourne, Australia) - Online: 3
+  ABC Premium News (Australia): 2
+  WA Today: 1
+  The Age (Melbourne, Australia): 2
+  Moree Champion (ACM): 2
+  Inverell Times (ACM): 1
+  The Australian: 1
+  Border News: 1
+  Northern Territory News (Australia): 1
+  The Canberra Times: 2
+  The Courier Mail/The Sunday Mail (Australia): 1
+  Newcastle Herald: 1
+  The Daily Telegraph (Australia): 1
+  Herald Sun/Sunday Herald Sun (Melbourne, Australia): 2
+----------------------------------------
+Summary for Australia - %22Henan+Floods%22_4.json:
+  The Age (Melbourne, Australia): 1
+  The Sydney Morning Herald: 1
+  The Australian Financial Review (Online): 1
+  The Australian Financial Review: 1
+----------------------------------------
+Summary for Australia - %22climate+equity%22_49.json:
+  The Advocate (Burnie) (ACM): 2
+  Snowy Times: 1
+  The Canberra Times: 1
+  The Sydney Morning Herald: 2
+  Crikey (First Digital Media): 15
+  The Age (Melbourne, Australia): 4
+  ABC Premium News (Australia): 1
+  RWE Resources News: 3
+  The Sydney Morning Herald (Australia) - Online: 2
+  SmartCompany: 6
+  The Age (Melbourne, Australia) - Online: 2
+  Illawarra Mercury: 1
+  The Conversation - Australia: 1
+  International Business Times Australia: 1
+  The Australian Online: 1
+  The Australian: 1
+  Canberra Times Online: 1
+  WA Today: 1
+  Brisbane Times: 1
+  The Australian Financial Review: 1
+  Business Spectator: 1
+----------------------------------------
+Summary for Australia - %22agroforestry%22_1286.json:
+  News Bites - People in Business: 16
+  The Journal of Environment & Development: 1
+  News Bites - Private Companies: 6
+  Global Round Up - Bullish & Bearish Signals: 18
+  The Conversation - Africa: 3
+  Australian Rural & Regional News (EN): 1
+  Knowridge Scientific Report: 1
+  The Weekly Times: 2
+  The Weekly Times Online: 1
+  Global Round Up - Stock Exchange Indices: 1
 ----------------------------------------
 Summary for Australia - %22climate+justice%22_2390.json:
   The Conversation - United Kingdom: 2
@@ -268,4 +1072,56 @@ Summary for Australia - %22climate+justice%22_2390.json:
   Asia Pacific News: 1
   Northern Territory News (Australia): 1
   The Conversation - Australia: 1
+----------------------------------------
+Summary for Australia - %22nature-based+solutions%22_1733.json:
+  News Bites - Private Companies: 46
+  The Journal of Environment & Development: 1
+  Hobart Mercury/Sunday Tasmanian (Australia): 1
+  The Conversation - United Kingdom: 1
+  News Bites - People in Business: 1
+----------------------------------------
+Summary for Australia - %22Australian+Bushfires%22_1772.json:
+  Townsville Bulletin (Australia): 2
+  The Sydney Morning Herald: 1
+  ABC Premium News (Australia): 1
+  The Age (Melbourne, Australia): 1
+  The Advertiser/Sunday Mail (Adelaide, South Australia): 1
+  Herald Sun/Sunday Herald Sun (Melbourne, Australia): 1
+  The Cairns Post (Australia): 1
+  Northern Territory News (Australia): 1
+  The Daily Telegraph Online: 1
+  Knowridge Scientific Report: 1
+  The Australian Financial Review: 1
+  Herald Sun Online: 2
+  ABC Rural News: 1
+  The Australian Financial Review (Online): 1
+  The Courier-Mail Online: 1
+  AAP Newsfeed: 2
+  North Shore Times (Wednesday) (Australia): 1
+  Mosman Daily: 1
+  Wentworth Courier (Australia): 1
+  Crikey (First Digital Media): 28
+----------------------------------------
+Summary for Norway - %22regenerative+agriculture%22_15.json:
+  News Bites -Nordic: Norway: 13
+  Valona Norway News: 2
+----------------------------------------
+Summary for Norway - %22agroforestry%22_0.json:
+----------------------------------------
+Summary for Norway - %22nature-based+solutions%22_1.json:
+  Valona Norway News: 1
+----------------------------------------
+Summary for Norway - %22Australian+Bushfires%22_0.json:
+----------------------------------------
+Summary for Norway - %22Typhoon+Hagibis%22_0.json:
+----------------------------------------
+Summary for Norway - %22hurricane+katrina%22_4.json:
+  Norwegian Business Digests: 4
+----------------------------------------
+Summary for Norway - %22climate+equity%22_0.json:
+----------------------------------------
+Summary for Norway - %22climate+justice%22_4.json:
+  Webnews - Norwegian: 4
+----------------------------------------
+Summary for Norway - %22Henan+Floods%22_0.json:
 ----------------------------------------

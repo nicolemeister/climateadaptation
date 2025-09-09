@@ -4,11 +4,20 @@ from collections import Counter
 import re
 
 
-keywords = ["%22hurricane+katrina%22", "%22climate+justice%22"]
+keywords = ["%22hurricane+katrina%22", "%22climate+justice%22", "%22climate+equity%22", "%22nature-based+solutions%22", "%22regenerative+agriculture%22", "%22agroforestry%22", "%22Australian+Bushfires%22", "%22Typhoon+Hagibis%22", "%22Henan+Floods%22"]
+
 keyword_to_searchable_keyword = {
     "%22hurricane+katrina%22": "hurricane katrina",
     "%22climate+justice%22": "climate justice",
+    "%22climate+equity%22": "climate equity",
+    "%22nature-based+solutions%22": "nature-based solutions",
+    "%22regenerative+agriculture%22": "regenerative agriculture",
+    "%22agroforestry%22": "agroforestry",
+    "%22Australian+Bushfires%22": "Australian Bushfires",
+    "%22Typhoon+Hagibis%22": "Typhoon Hagibis",
+    "%22Henan+Floods%22": "Henan Floods"
 }
+
 country_to_locationID = {
     "Japan": "(Location+eq+%27Z3VpZD11cm46cHJvcGVydHlWYWx1ZUl0ZW06REU0NjQ5QkUzNDNFNDVDMDhCN0JDODZEQ0I3MzRENzg7cGFyZW50Z3VpZD0%27+and+Location+eq+%27Z3VpZD11cm46ZW50aXR5Omdlb2ItMTAxNzA4NDcyO3BhcmVudGd1aWQ9dXJuOnByb3BlcnR5VmFsdWVJdGVtOkRFNDY0OUJFMzQzRTQ1QzA4QjdCQzg2RENCNzM0RDc4O2FsdG5hbWU9SlA%27)",       
     "SouthKorea": "(Location+eq+%27Z3VpZD11cm46cHJvcGVydHlWYWx1ZUl0ZW06REU0NjQ5QkUzNDNFNDVDMDhCN0JDODZEQ0I3MzRENzg7cGFyZW50Z3VpZD0%27+and+Location+eq+%27Z3VpZD11cm46ZW50aXR5Omdlb2ItMTAxMDE0NTQxO3BhcmVudGd1aWQ9dXJuOnByb3BlcnR5VmFsdWVJdGVtOkRFNDY0OUJFMzQzRTQ1QzA4QjdCQzg2RENCNzM0RDc4O2FsdG5hbWU9S1I%27)", 
@@ -20,6 +29,7 @@ country_to_locationID = {
     "France": "(Location+eq+%27Z3VpZD11cm46cHJvcGVydHlWYWx1ZUl0ZW06NjMyQUQ2NzIwNzcyNEVBQThGQTRBNDg5N0UxOTUwRDc7cGFyZW50Z3VpZD0%27+and+Location+eq+%27Z3VpZD11cm46ZW50aXR5Omdlb2ItMTAxMDc5NDQyO3BhcmVudGd1aWQ9dXJuOnByb3BlcnR5VmFsdWVJdGVtOjYzMkFENjcyMDc3MjRFQUE4RkE0QTQ4OTdFMTk1MEQ3O2FsdG5hbWU9RlI%27)", 
     "UK": "(Location+eq+%27Z3VpZD11cm46cHJvcGVydHlWYWx1ZUl0ZW06NjMyQUQ2NzIwNzcyNEVBQThGQTRBNDg5N0UxOTUwRDc7cGFyZW50Z3VpZD0%27+and+Location+eq+%27Z3VpZD11cm46ZW50aXR5Omdlb2ItMTAyMzE1ODg0O3BhcmVudGd1aWQ9dXJuOnByb3BlcnR5VmFsdWVJdGVtOjYzMkFENjcyMDc3MjRFQUE4RkE0QTQ4OTdFMTk1MEQ3O2FsdG5hbWU9R0I%27)", 
     "Australia": "(Location+eq+%27Z3VpZD11cm46a3JtOnB2aS1FRjVERkJDMDhBRDU0RDRFOUEwOThDNTAxOTMwMzFDQjtwYXJlbnRndWlkPQ%27+and+Location+eq+%27Z3VpZD11cm46ZW50aXR5Omdlb2ItMTAwMDA4MjM4O3BhcmVudGd1aWQ9dXJuOmtybTpwdmktRUY1REZCQzA4QUQ1NEQ0RTlBMDk4QzUwMTkzMDMxQ0I7YWx0bmFtZT1BVQ%27)",  
+    "Norway": "(Location+eq+%27Z3VpZD11cm46cHJvcGVydHlWYWx1ZUl0ZW06NjMyQUQ2NzIwNzcyNEVBQThGQTRBNDg5N0UxOTUwRDc7cGFyZW50Z3VpZD0%27+and+Location+eq+%27Z3VpZD11cm46ZW50aXR5Omdlb2ItMTAyMzg3ODExO3BhcmVudGd1aWQ9dXJuOnByb3BlcnR5VmFsdWVJdGVtOjYzMkFENjcyMDc3MjRFQUE4RkE0QTQ4OTdFMTk1MEQ3O2FsdG5hbWU9Tk8%27)"
 }
 
 # Read token from environment variables
