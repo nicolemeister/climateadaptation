@@ -33,7 +33,7 @@ country_to_locationID = {
 }
 
 # Read token from environment variables
-# see this repo's README.md for instructions on how to set environ variables
+# See this repo's README.md for instructions on how to set environ variables
 
 output_lines_sourcefreq = []
 output_lines_keywordfreq = []

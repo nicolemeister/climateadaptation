@@ -65,6 +65,5 @@ token = token_data["access_token"]
 # README.md for instructions on how to set environ variables.
 os.environ['lntoken'] = token
 
-
 # print just the 24 hour token to screen
 print(token)
