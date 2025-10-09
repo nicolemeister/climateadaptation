@@ -5,21 +5,25 @@ import json
 import re
 
 
-# COUNTRIES = ["Japan", "US", "SouthKorea", "China", "Singapore", "Vietnam", "Germany", "France", "UK", "Australia", "Norway", "Bangladesh", "India", "Malaysia", "Taiwan", "Thailand", "Nepal", "Laos", "Mongolia", "SriLanka", "Phillipines", "Denmark", "Canada", "Netherland", "Belgium", "Switzerland", "Spain", "Italy", "Greece", "Ireland"]
-# keywords = ["%22climate+equity%22", "%22climate+justice%22", "%22nature-based+solutions%22", "%22regenerative+agriculture%22", "%22agroforestry%22", "%22Australian+Bushfires%22", "%22Typhoon+Hagibis%22", "%22Henan+Floods%22", "%22climate+resilience%22", "%22climate+adaptation%22", '%22green+infrastructure%22']
+COUNTRIES = ["Japan", "US", "SouthKorea", "China", "Singapore", "Vietnam", "Germany", "France", "UK", "Australia", "Norway", "Bangladesh", "India", "Malaysia", "Taiwan", "Thailand", "Nepal", "Laos", "Mongolia", "SriLanka", "Phillipines", "Denmark", "Canada", "Netherland", "Belgium", "Switzerland", "Spain", "Italy", "Greece", "Ireland"]
+keywords = ["%22climate+equity%22", "%22climate+justice%22", "%22nature-based+solutions%22", "%22regenerative+agriculture%22", "%22agroforestry%22", "%22Australian+Bushfires%22", "%22Typhoon+Hagibis%22", "%22Henan+Floods%22", "%22climate+resilience%22", "%22climate+adaptation%22", '%22green+infrastructure%22']
 
-COUNTRIES = ["China", "US"]
-keywords = ["%22climate+justice%22", "%22climate+equity%22"]
+# COUNTRIES = ["China", "US"]
+# keywords = ["%22climate+justice%22", "%22climate+equity%22"]
+# keywords = ["%22climate+adaptation%22", "%22climate+resilience%22"]
 
 
 keyword_to_searchable_keyword = {
-    "%22hurricane+katrina%22": "hurricane katrina",
-    "%22climate+justice%22": "climate justice",
-    "%22climate+equity%22": "climate equity",
-    "%22nature-based+solutions%22": "nature-based solutions",
-    "%22regenerative+agriculture%22": "regenerative agriculture",
     "%22agroforestry%22": "agroforestry",
     "%22Australian+Bushfires%22": "Australian Bushfires",
+    "%22climate+adaptation%22": "climate adaptation",
+    "%22climate+equity%22": "climate equity",
+    "%22climate+justice%22": "climate justice",
+    "%22climate+resilience%22": "climate resilience",
+    "%22green+infrastructure%22": "green infrastructure",
+    "%22hurricane+katrina%22": "hurricane katrina",
+    "%22nature-based+solutions%22": "nature-based solutions",
+    "%22regenerative+agriculture%22": "regenerative agriculture",
     "%22Typhoon+Hagibis%22": "Typhoon Hagibis",
     "%22Henan+Floods%22": "Henan Floods"
 }
@@ -130,8 +134,8 @@ def combine_data():
             combined_data = []
             if country in os.listdir('data'): 
                 # read in the json 
+                # grab the filename from the list of files within this folder that starts with the keyword
                 try: 
-                    # grab the filename from the list of files within this folder that starts with the keyword
                     filename = [f for f in os.listdir(os.path.join('data', country)) if f.startswith(keyword)][0]
                     with open(os.path.join('data', country+'/'+filename), 'r') as f:
                         data = json.load(f)
@@ -144,6 +148,7 @@ def combine_data():
                     filename = [f for f in os.listdir(os.path.join('data', country+'_1')) if f.startswith(keyword)][0]
                     with open(os.path.join('data', country+'_1/'+filename), 'r') as f:
                         data = json.load(f)
+
                     combined_data.extend(extract_readable_data(data, keyword))
                 except:
                     pass
@@ -152,9 +157,13 @@ def combine_data():
                     filename = [f for f in os.listdir(os.path.join('data', country+'_2')) if f.startswith(keyword)][0]
                     with open(os.path.join('data', country+'_2/'+filename), 'r') as f:
                         data = json.load(f)
+
                     combined_data.extend(extract_readable_data(data, keyword))
                 except:
                     pass
+
+
+
             if country+'_3' in os.listdir('data'):
                 try: 
                     filename = [f for f in os.listdir(os.path.join('data', country+'_3')) if f.startswith(keyword)][0]
@@ -163,7 +172,6 @@ def combine_data():
                     combined_data.extend(extract_readable_data(data, keyword))
                 except:
                     pass
-            
             # make the new directory if it doesn't exist
             if not os.path.exists(os.path.join('data', country+'_2sentence')):
                 os.makedirs(os.path.join('data', country+'_2sentence'))
