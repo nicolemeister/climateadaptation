@@ -1,0 +1,30 @@
+Summary for US_wildfires - %22forest+fire%22_42906.json:
+  China Government News: 2
+  Engineering Daily News: 1
+  Robotics & Machine Learning Daily News: 1
+  NewsRx Science Daily: 2
+  CE Noticias Financieras English: 8
+  Network Daily News: 1
+  Information Technology Daily: 1
+  Disease Prevention Daily: 1
+  Climate Change Daily News: 2
+  MENAFN - Business & Finance News (English): 1
+----------------------------------------
+Summary for Australia_wildfires - %22forest+fire%22_6336.json:
+  News Bites - Private Companies: 2
+  Australian Rural & Regional News (EN): 1
+  AAP Newsfeed: 1
+  The Border Mail (ACM): 2
+  The Weekly Times: 2
+  Herald Sun/Sunday Herald Sun (Melbourne, Australia): 1
+  The Daily Telegraph (Australia): 1
+  ABC Premium News (Australia): 2
+  The Daily Telegraph Online: 1
+  The Australian: 1
+  The Australian Online: 1
+  (Dubbo) Daily Liberal: 1
+  Herald Sun Online: 1
+  Western Advocate (ACM): 1
+  The Courier (ACM): 1
+  Geelong Advertiser (Victoria): 1
+----------------------------------------

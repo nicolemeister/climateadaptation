@@ -1,0 +1,44 @@
+Titles for US_wildfires - %22forest+fire%22_42906.json:
+  China: Tianjin Forest Fire Prevention Office strives to ensure stable forest fire risk situation during key periods
+  Researchers at Universiti Kebangsaan Malaysia Report Research in Engineering (Satellite-Based Forest Fire Mapping Using Group and Shuffle Network Embeddings)
+  Data from Ottawa Advance Knowledge in Machine Learning (A Systematic Machine Learning Methodology for Enhancing Accuracy and Reducing Computational Complexity in Forest Fire Detection)
+  Prince of Songkla University Researchers Have Published New Data on Geoscience (The synergistic use of AHP and GIS to assess factors driving forest fire potential in a peat swamp forest in Thailand)
+  Arequipa: Forest fire affects natural grasslands on Misti volcano
+  University of Delhi Researchers Provide New Data on Artificial Neural Networks (Assessing forest fire vulnerability using artificial neural networks in Almora district, Uttarakhand, India)
+  Quito registers a forest fire in San Juan protection zone
+  Forest fire in Cañar consumes more than 287 hectares of vegetation
+  Forest fire affects Conunhueno hill in Padre Las Casas
+  Forest fire affects two districts in Huancayo
+  China: Anhui Province held a training course to enhance the professional capabilities of forest fire prevention and control in 2025
+  North China Institute of Science and Technology Researchers Update Current Study Findings on Geoscience (YOLO-MC: An algorithm for early forest fire recognition based on drone image)
+  Forest fire in the San Juan protection zone in Quito mobilizes more than 70 firefighters
+  New Physics Findings from Northeast Forestry University Described (All-Weather Forest Fire Automatic Monitoring and Early Warning Application Based on Multi-Source Remote Sensing Data: Case Study of Yunnan)
+  New Findings on Engineering Described by Investigators at Dalian University of Technology (A New Weighted Rough Set and Improved Bp Neural Network Method for Predicting Forest Fires)
+  New forest fire hits Quito this September 2nd
+  Arequipa: more than 50 species of flora and fauna affected by forest fire in the foothills of Misti volcano
+  Investigators at Indian Institute of Technology (IIT) Indore Discuss Findings in Sustainable Development [Forest Fires and Climate Change In India: Impacts, Adaptive Strategies, and Pathways for Climate Action (Sustainable Development Goal-13)]
+  Korea Water Resources Corporation Researchers Describe Advances in Environmental Science (Interception reduction from deforestation and forest fire increases large-scale fluvial flooding risk)
+  Türkiye's Fierce Forest Fire Reaches Residential Neighborhoods
+----------------------------------------
+Titles for Australia_wildfires - %22forest+fire%22_6336.json:
+  September 18, 2025: Autonomous University of Barcelona Horses, possible allies in forest fire prevention
+  September 18, 2025: Study Highlights Role of Autonomous University of Barcelona Horses in Forest Fire Management
+  New recruits bolster firefighting resources across Victoria: FFMVic
+  SOC:Home sweet home: Ange hopes Forest fire in backyard
+  Trucks off the road ahead of summer sizzle
+  History lesson up in smoke
+  Mercedes firefighting trucks taken off road for repair before summer starts
+  State's frontline fire fleet crippled
+  Missing man 'thought I was a dead duck'
+  Missing man Troy Milne found alive in bushland more than two hours from campsite
+  Some scientists challenge logic of Victoria's fuel reduction burns
+  'Colossal failure': Magistrate roasts arsonist after state forest fire
+  Burn-off fiasco risks LA repeat
+  Burn-off fiasco risks LA-style fire pain
+  Warnings issued as campers ignore bans
+  Firefighter's warning as off-season grassfire burns out of control
+  When camping trips turn costly: warnings issued as campers ignore fire ban
+  Cause of fire at Berringa under investigation after evacuation warning
+  BREAKING BARRIERS
+  ON THE BACKBURNER
+----------------------------------------

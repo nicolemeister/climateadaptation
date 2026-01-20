@@ -1,0 +1,80 @@
+You are given a collection of text documents. Your task is to cluster these documents into 30 distinct topics. Each cluster should represent a unique theme or subject matter based on the content of the documents.
+
+Please follow these steps:
+
+Preprocess the Documents:
+
+Remove any irrelevant or redundant information.
+
+Handle any formatting issues (e.g., strip excessive whitespace, special characters, etc.).
+
+Normalize text by converting it to lowercase (optional based on use case).
+
+Cluster the Documents:
+
+Analyze the documents and group them into 30 distinct topics.
+
+For each topic, provide a brief summary that encapsulates the core idea of the cluster. This summary should describe the central theme or subject matter of the documents in that group.
+
+Present the Results:
+
+List each cluster and provide the following for each one:
+
+The topic label (a brief title or description for the topic).
+
+A brief summary of the content in that cluster (a 1-2 sentence summary of the main theme).
+
+Example documents from that cluster (provide 1-2 short excerpts or the first few lines of representative documents).
+
+Example Input:
+
+You are given the following documents (you can assume the list will be much longer in real scenarios):
+
+"Global warming is impacting the oceans and causing sea levels to rise."
+
+"The economy is facing a recession due to global inflation and supply chain disruptions."
+
+"Artificial intelligence in healthcare is improving patient diagnosis and treatment."
+
+"Climate change is causing unprecedented wildfires across the globe."
+
+"Machine learning models are revolutionizing industries by automating repetitive tasks."
+
+"The economy is predicted to grow in the next quarter as demand for services rises."
+
+Expected Output:
+
+Cluster 1: Climate Change and Environmental Issues
+
+Summary: This cluster contains documents related to climate change, global warming, and environmental crises like wildfires and rising sea levels.
+
+Example Documents:
+"Global warming is impacting the oceans and causing sea levels to rise."
+"Climate change is causing unprecedented wildfires across the globe."
+
+Cluster 2: Economic Issues and Recession
+
+Summary: This cluster focuses on the economy, including topics like recessions, inflation, and market fluctuations.
+
+Example Documents:
+"The economy is facing a recession due to global inflation and supply chain disruptions."
+"The economy is predicted to grow in the next quarter as demand for services rises."
+
+Cluster 3: Technology and Innovation
+
+Summary: This cluster includes topics related to technological advancements such as artificial intelligence and machine learning.
+
+Example Documents:
+"Artificial intelligence in healthcare is improving patient diagnosis and treatment."
+"Machine learning models are revolutionizing industries by automating repetitive tasks."
+
+Important Notes:
+
+Ensure the clusters are distinct from one another and don't overlap.
+
+If some documents could belong to multiple topics, categorize them based on their primary focus.
+
+Provide coherent, readable summaries for each cluster.
+
+Instructions:
+Once the documents are clustered, please provide your output in a structured format as shown above.

@@ -1,0 +1,12 @@
+In this coding task, we’re going to present you with a news article about {event}. Please categorize if the article contains discussion of how the community reacted to the event, grief about the event, and/or how the community can move forward (e.g., next steps). 
+Please respond with one of the following label (could be multiple): "Reaction", "Grief", "Moving Forward", or "None".
+After, please include a quote that supports the label you provided.
+
+Here are two examples:
+Article: Hurricane Katrina left a lasting impact on New Orleans, with over 1,800 lives lost and widespread destruction. Despite the challenges, the city’s vibrant cultural heritage has played a pivotal role in its recovery. The people of New Orleans have shown remarkable resilience, drawing strength from their music, food, and traditions. The “second line” parades, which blend mourning and celebration, have become symbols of community unity and hope. As the city continues to rebuild, the optimism and determination of its residents shine through, ensuring that New Orleans remains a beacon of strength for the future.
+Label: Community Moving Forward
+Quote: 'The people of New Orleans have shown remarkable resilience, drawing strength from their music, food, and traditions. The “second line” parades, which blend mourning and celebration, have become symbols of community unity and hope. As the city continues to rebuild, the optimism and determination of its residents shine through, ensuring that New Orleans remains a beacon of strength for the future.'
+
+Article: Hurricane Katrina left an enduring sorrow in New Orleans, where over 1,800 lives were lost, and neighborhoods were decimated. The community continues to grieve the personal and collective losses, as families mourn loved ones and the destruction of their homes. The emotional toll remains significant, with many still struggling to rebuild their lives.
+Label: Grief
+Quote: 'The community continues to grieve the personal and collective losses, as families mourn loved ones and the destruction of their homes. The emotional toll remains significant, with many still struggling to rebuild their lives.'

@@ -28,8 +28,6 @@ keyword_to_searchable_keyword = {
     "%22Henan+Floods%22": "Henan Floods"
 }
 
-
-
 def extract_readable_data(list_of_dicts, keyword):
     list_of_readable_dicts = []
     for idx, data_dict in enumerate(list_of_dicts): 

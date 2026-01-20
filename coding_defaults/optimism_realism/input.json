@@ -1,0 +1,62 @@
+[
+    {
+        "context": "A local political candidate is seeking support for strengthening infrastructure against climate challenges.",
+        "paragraph": "I believe we are better off being optimistic. We'll develop our approach and make the most of the new opportunities ahead.",
+        "coding": "optimism = 1, realism = 0"
+    },
+    {
+        "context": "A local political candidate is seeking support for strengthening infrastructure against climate challenges.",
+        "paragraph": "I believe we are better off being realistic. We should follow a reliable path forward and be prepared for the tough challenges ahead.",
+        "coding": "optimism = 0, realism = 1"
+    },
+    {
+        "context": "An activist group is encouraging community members to take action and help secure a clean water supply during heat waves and floods.",
+        "paragraph": "I see opportunities, along with the potential to make things better. Acting now is the smart choice to enhance our water future.",
+        "coding": "optimism = 1, realism = 0"
+    },
+    {
+        "context": "An activist group is encouraging community members to take action and help secure a clean water supply during heat waves and floods.",
+        "paragraph": "I see risks along with factors that could make things worse. Acting now is a wise step toward securing our water future.",
+        "coding": "optimism = 0, realism = 1"
+    },
+    {
+        "context": "Warming waters and ocean acidification have reduced staple food sources for many coastal communities. An expert is encouraging communities to prepare for climate resilient foods.",
+        "paragraph": "I see many opportunities for food abundance despite these challenges. Our young people are pioneering new ways to farm. If we act now, we can have a plentiful food supply in the future.",
+        "coding": "optimism = 1, realism = 0"
+    },
+    {
+        "context": "Warming waters and ocean acidification have reduced staple food sources for many coastal communities. An expert is encouraging communities to prepare for climate resilient foods.",
+        "paragraph": "I see harsh realities of food shortages due to these challenges. Our young people are trying to address limitations of current farming techniques. If we act now, we can reduce chances of food scarcity in the future.",
+        "coding": "optimism = 0, realism = 1"
+    },
+    {
+        "context": "A nonprofit works with communities to plant mangroves, restoring marine ecosystems and reducing flooding risks.",
+        "paragraph": "Optimism drives us. Our hope is rooted in seeing possibilities of a better future—every mangrove we plant will create stronger communities.",
+        "coding": "optimism = 1, realism = 0"
+    },  
+    {
+        "context": "A nonprofit works with communities to plant mangroves, restoring marine ecosystems and reducing flooding risks.",
+        "paragraph": "Realism grounds us. Our practical approach is rooted in understanding local ecosystems and community histories—every mangrove we plant can reduce damage to communities.",
+        "coding": "optimism = 0, realism = 1"
+    },
+    {
+        "context": "A frontline manager is considering raising the issue of climate-related work adjustments.",
+        "paragraph": "With a hopeful outlook, I see strong potential to enhance our routine operations. Our company is uniquely positioned to make these changes.",
+        "coding": "optimism = 1, realism = 0"
+    },
+    {
+        "context": "A frontline manager is considering raising the issue of climate-related work adjustments.",
+        "paragraph": "With a realistic outlook, I see significant risks that could undermine our routine operations. Our company must follow others' examples and make these adjustments too.",
+        "coding": "optimism = 0, realism = 1"
+    },
+    {
+        "context": "Imagine your friend is encouraging people to learn how communities can prepare for extreme weather events.",
+        "paragraph": "We have a unique opportunity to explore new ways to strengthen our communities.",
+        "coding": "optimism = 1, realism = 0"
+    }, 
+    {
+        "context": "Imagine your friend is encouraging people to learn how communities can prepare for extreme weather events.",
+        "paragraph": "We face growing threats and must adopt proven methods to protect our communities.",
+        "coding": "optimism = 0, realism = 1"
+    }
+]

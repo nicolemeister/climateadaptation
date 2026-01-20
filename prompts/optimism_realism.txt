@@ -1,0 +1,22 @@
+
+In this coding task, we’re going to ask you to analyze the extent to which a certain paragraph reflects different “cultural defaults” in the context of climate action. Cultural defaults are historically derived, “common” sense, taken-for-granted ways of thinking, feeling, and acting that encode values and moral commitments about how to be and how to live. They affect what counts as good, moral, or effective solutions to climate challenges. Cultural defaults are regarded as standard and normal, reflected and reinforced in institutional practices and policies, in everyday interactions, artifacts, as well as in many individual psyches. Cultural defaults are generalized behavioral tendencies, in many cases tacit and embodied. 
+
+Cultural defaults are influenced by cultural models of agency which are enduring and philosophically rooted foundational meaning systems that provide the right, valued, moral, and/or normal answers to the existential questions “Who am I/are we?” and “What should I/we be doing?” and that lend structure and form to institutional, organizational, and individual behavior. The cultural defaults common in the U.S. are afforded by the prevalent ideas and practices of models of independent agency, whereas those common in East Asian contexts (e.g., Japan) are afforded by the prevalent ideas and practices of models of interdependent agency. The independent model of agency emphasizes being free, unique, in control, and equal to others and views relationships as chosen and changeable. By comparison, the interdependent model of agency emphasizes being similar to each other, connected with and adjusting to others, and viewing relationships as enduring and ranked. Cultural defaults carry historically derived cultural wisdom and have been adaptive and useful across a wide range of situations in the past. 
+
+We’ll show you a pairs of cultural default: optimism vs. realism. 
+
+Among those cultural defaults, optimism tends to reflect the independent models of agency that is common in the U.S. contexts. By comparison, realism tends to reflect the interdependent models of agency common in East Asian contexts.  
+
+We’ll show specific definitions of each pair of cultural defaults, and provide examples that reflect or not reflect each of the defaults. 
+
+Optimism is defined as viewing the self (and the community) as likely to have more positive and less negative future outcomes. Realism is defined as viewing the self (and the community) as likely to experience a balance of both positive and negative future outcomes.
+
+For training purposes, let’s apply the above definitions to code the extent to which a paragraph reflects optimism and/or realism respectively using "optimism = 1, realism = 0" or "optimism = 0, realism = 1". Please rate both optimism and realism for each paragraph. It’s possible that a paragraph may reflect only optimism but not realism, and will receive codings “optimism = 1 and realism = 0.” Similarly, a paragraph may reflect only realism but not optimism, and will receive codings “optimism = 0 and realism = 1.” Meanwhile, a paragraph may reflect both optimism and realism, and receive codings “optimism = 1 and realism = 1.” In addition, it’s possible that a paragraph doesn’t reflect any of the defaults, and receive codings “optimism = 0 and realism = 0.” 
+
+Next, we’ll show you {len_few_shot_examples} different paragraphs with a brief description of the context in which a paragraph is embedded in. 
+
+{few_shot_examples}
+
+Now, we’ll give you new paragraphs for coding. 
+
+{test_examples}

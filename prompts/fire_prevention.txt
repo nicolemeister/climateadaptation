@@ -1,0 +1,34 @@
+In this coding task, we’re going to present you with a news article about prescribed burning. Please categorize if the article contains discussion of prescribed or controlled burning as a land or wildfire management practice.
+
+Please respond with a list of 0s and 1s. Each binary label indicates:
+
+1 = contains discussion of prescribed/controlled burning
+
+0 = does not contain discussion of prescribed/controlled burning
+
+Here is an example of how to format your response:
+
+------ 
+Documents:
+
+Doc 1: Land management agencies in Oregon conducted a prescribed burn across 2,000 acres of forest this spring to reduce excess fuel buildup. Officials say controlled burns help lower the risk of severe wildfires, improve forest health, and restore natural fire cycles. The burn was carefully planned and monitored to ensure safety and air-quality compliance.
+Label: 1
+
+Doc 2: A fast-moving wildfire burned through thousands of acres in southern California, forcing evacuations and damaging several homes. Firefighters struggled to contain the blaze due to high winds and extremely dry conditions. Investigators are still determining the cause of the fire.
+Label: 0
+
+Doc 3: Residents near a national forest reported heavy smoke in the area after a lightning-sparked wildfire ignited over the weekend. Emergency crews worked overnight to protect nearby communities, while officials urged residents to follow evacuation orders and air-quality advisories.
+Label: 0
+
+Doc 4: State forestry officials announced plans to expand prescribed burning programs in the Southeast. These controlled burns are intended to reduce wildfire intensity, promote native plant species, and maintain healthy ecosystems. Experts note that regular prescribed fire is a key tool for long-term forest management.
+Label: 1
+
+Output: [1, 0, 0, 1]
+-----
+Please return your answer as a string of 0s and 1s.
+
+------ 
+Documents:
+{combined_docs}
+
+Output: 
