@@ -18,6 +18,12 @@ keyword_to_searchable_keyword = {
 
 def extract_readable_data(country, list_of_dicts, keyword, years, months, titles, published_dates, bodyTexts):
     list_of_readable_dicts = []
+    years = {country: []} 
+    months = {country: []} 
+    titles = {country: []} 
+    published_dates = {country: []} 
+    bodyTexts = {country: []} 
+    
     for idx, data_dict in enumerate(list_of_dicts): 
         text_data = data_dict["Document_Content"]
         publisher = data_dict["Source_Name"]
@@ -129,8 +135,6 @@ def extract_readable_data(country, list_of_dicts, keyword, years, months, titles
     return years, months, titles, published_dates, bodyTexts
 
 def combine_data():
-
-
     for country in COUNTRIES:
         for keyword in keywords:
 
@@ -150,6 +154,7 @@ def combine_data():
             except:
                 pass
                     
+            breakpoint()
 
             # make the new directory if it doesn't exist
             if not os.path.exists(os.path.join('data', country+'_dates')):
