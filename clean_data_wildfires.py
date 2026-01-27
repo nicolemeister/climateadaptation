@@ -48,6 +48,11 @@ def extract_readable_data(country, list_of_dicts, keyword, years, months, titles
             bodyText = bodyText.group(1)
         else:
             bodyText = ""
+        
+        # extract the data between the <p> and </p> tags and replace with newlines
+        p_tags = re.findall(r'<p[^>]*>(.*?)</p>', bodyText)
+        if p_tags:
+            bodyText = "\n".join(p_tags)
 
         years[country].append(year)
         months[country].append(month)
@@ -154,7 +159,6 @@ def combine_data():
             except:
                 pass
                     
-            breakpoint()
 
             # make the new directory if it doesn't exist
             if not os.path.exists(os.path.join('data', country+'_dates')):
