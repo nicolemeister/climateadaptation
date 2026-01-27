@@ -5,12 +5,11 @@ import json
 import re
 import matplotlib.pyplot as plt
 
-w
-
-# COUNTRIES = ["China", "US"]
+COUNTRIES = ['US_wildfires_1', 'Canada_wildfires_1','Australia_wildfires_1']
 # keywords = ["%22climate+justice%22", "%22climate+equity%22"]
 # keywords = ["%22climate+adaptation%22", "%22climate+resilience%22"]
 
+keywords = ["%22forest+fire%22"]
 
 keyword_to_searchable_keyword = {
     "%22forest+fire%22": "forest fire",
@@ -49,6 +48,8 @@ def extract_readable_data(country, list_of_dicts, keyword, years, months, titles
         titles[country].append(title)
         published_dates[country].append(published)
         bodyTexts[country].append(bodyText)
+
+
 
 
         '''
@@ -145,39 +146,38 @@ def combine_data():
                     years,months, titles, published_dates, bodyTexts = extract_readable_data(country, data, keyword, years, months, titles, published_dates, bodyTexts)
             except:
                 pass
-            
-    # make the new directory if it doesn't exist
-    if not os.path.exists(os.path.join('data', country+'_dates')):
-        os.makedirs(os.path.join('data', country+'_dates'))
-    with open(os.path.join('data', country+'_dates/'+keyword+'.json'), 'w') as f:
-        # save the years months title dates and texts in separate files
-        with open(os.path.join('data', country+'_dates/years.json'), 'w') as f:
-            json.dump(years, f)
-        with open(os.path.join('data', country+'_dates/months.json'), 'w') as f:
-            json.dump(months, f)
-        with open(os.path.join('data', country+'_dates/titles.json'), 'w') as f:
-            json.dump(titles, f)
-        with open(os.path.join('data', country+'_dates/published_dates.json'), 'w') as f:
-            json.dump(published_dates, f)
-        with open(os.path.join('data', country+'_dates/bodyTexts.json'), 'w') as f:
-            json.dump(bodyTexts, f)
+                
+        # make the new directory if it doesn't exist
+        if not os.path.exists(os.path.join('data', country+'_dates')):
+            os.makedirs(os.path.join('data', country+'_dates'))
+        with open(os.path.join('data', country+'_dates/'+keyword+'.json'), 'w') as f:
+            # save the years months title dates and texts in separate files
+            with open(os.path.join('data', country+'_dates/years.json'), 'w') as f:
+                json.dump(years, f)
+            with open(os.path.join('data', country+'_dates/months.json'), 'w') as f:
+                json.dump(months, f)
+            with open(os.path.join('data', country+'_dates/titles.json'), 'w') as f:
+                json.dump(titles, f)
+            with open(os.path.join('data', country+'_dates/published_dates.json'), 'w') as f:
+                json.dump(published_dates, f)
+            with open(os.path.join('data', country+'_dates/bodyTexts.json'), 'w') as f:
+                json.dump(bodyTexts, f)
 
 
 
-    breakpoint()
-    # Make a new plot per country for the count of years
-    for country in years.keys():
-        # Convert string years to integers, filter out non-digit/empty entries
-        years_int = [int(y) for y in years[country] if str(y).isdigit()]
-        if not years_int:
-            continue
-        plt.figure()
-        plt.hist(years_int, bins=range(min(years_int), max(years_int)+2), edgecolor='black', color='skyblue')
-        plt.xlabel('Year')
-        plt.ylabel('Count')
-        plt.title('Count of Forest Fires Articles by Year in ' + country)
-        plt.savefig('summary_stats/forestfire/figs/count_of_forest_fires_by_year_' + country + '.png')
-        plt.close()
+        # Make a new plot per country for the count of years
+        for country in years.keys():
+            # Convert string years to integers, filter out non-digit/empty entries
+            years_int = [int(y) for y in years[country] if str(y).isdigit()]
+            if not years_int:
+                continue
+            plt.figure()
+            plt.hist(years_int, bins=range(min(years_int), max(years_int)+2), edgecolor='black', color='skyblue')
+            plt.xlabel('Year')
+            plt.ylabel('Count')
+            plt.title('Count of Forest Fires Articles by Year in ' + country)
+            plt.savefig('summary_stats/forestfire/figs/count_of_forest_fires_by_year_' + country + '.png')
+            plt.close()
 
     
     # plot the count of the months in a histogram per country 
