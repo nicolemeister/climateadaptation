@@ -59,10 +59,6 @@ def extract_readable_data(country, list_of_dicts, keyword, years, months, titles
         titles[country].append(title)
         published_dates[country].append(published)
         bodyTexts[country].append(bodyText)
-
-
-
-
         '''
         # filter the bodyText for instances
         instances = []
@@ -155,7 +151,7 @@ def combine_data():
                 for filename in filenames:
                     with open(os.path.join('data', country+'/'+filename), 'r') as f:
                         data = json.load(f)
-                    years,months, titles, published_dates, bodyTexts = extract_readable_data(country, data, keyword, years, months, titles, published_dates, bodyTexts)
+                        years,months, titles, published_dates, bodyTexts = extract_readable_data(country, data, keyword, years, months, titles, published_dates, bodyTexts)
             except:
                 pass
                     
