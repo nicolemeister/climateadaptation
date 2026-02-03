@@ -18,11 +18,6 @@ keyword_to_searchable_keyword = {
 
 def extract_readable_data(country, list_of_dicts, keyword, years, months, titles, published_dates, bodyTexts):
     list_of_readable_dicts = []
-    years = {country: []} 
-    months = {country: []} 
-    titles = {country: []} 
-    published_dates = {country: []} 
-    bodyTexts = {country: []} 
     
     for idx, data_dict in enumerate(list_of_dicts): 
         text_data = data_dict["Document_Content"]
