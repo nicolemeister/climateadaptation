@@ -6,6 +6,7 @@ import re
 import matplotlib.pyplot as plt
 
 COUNTRIES = ['US_wildfires_1', 'Canada_wildfires_1','Australia_wildfires_1']
+COUNTRIES = ['US_wildfires_1']
 # keywords = ["%22climate+justice%22", "%22climate+equity%22"]
 # keywords = ["%22climate+adaptation%22", "%22climate+resilience%22"]
 
@@ -23,7 +24,8 @@ def extract_readable_data(country, list_of_dicts, keyword, years, months, titles
         text_data = data_dict["Document_Content"]
         publisher = data_dict["Source_Name"]
         # extract the data between the title tags in the text_data
-        title = re.search(r'<title>(.*?)</title>', text_data)
+        try: title = re.search(r'<title>(.*?)</title>', text_data)
+        except: continue
         if title:
             title = title.group(1)
         else:
@@ -141,15 +143,13 @@ def combine_data():
             bodyTexts = {country: []} 
 
 
-            try: 
-                filenames = os.listdir(os.path.join('data', country))
-                for filename in filenames:
-                    with open(os.path.join('data', country+'/'+filename), 'r') as f:
-                        data = json.load(f)
-                        years,months, titles, published_dates, bodyTexts = extract_readable_data(country, data, keyword, years, months, titles, published_dates, bodyTexts)
-            except:
-                pass
-                    
+            filenames = os.listdir(os.path.join('data', country))
+            for filename in filenames:
+                with open(os.path.join('data', country+'/'+filename), 'r') as f:
+                    data = json.load(f)
+                    years,months, titles, published_dates, bodyTexts = extract_readable_data(country, data, keyword, years, months, titles, published_dates, bodyTexts)
+
+                
 
             # make the new directory if it doesn't exist
             if not os.path.exists(os.path.join('data', country+'_dates')):
